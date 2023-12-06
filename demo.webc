@@ -1,0 +1,7 @@
+<div>Hello</div>
+
+<style webc:scoped>
+    :host + :host {
+        margin-block-start: 1rem;
+    }
+</style>
